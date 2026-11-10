@@ -508,12 +508,12 @@ bdata pipelines run gd_m45m1u911dsa4274pi collect_by_url "https://shop.tiktok.co
 
 ## 适用于 Python 的 TikTok 爬虫工具
 
-同一个 TikTok 爬虫也提供 Python 版本：[brightdata/tiktok-scraper](https://github.com/brightdata/tiktok-scraper)。
+同一个 TikTok 爬虫也提供 Python 版本：[bright-cn/tiktok-scraper](https://github.com/bright-cn/tiktok-scraper)。
 
 ## Bright Data 提供的更多开源爬虫工具
 
 其他以相同方式构建并包含实时验证示例的 Node.js 抓取工具：
 
 - [适用于 Node.js 的 Instagram 爬虫工具](https://github.com/bright-cn/instagram-scraper-node)
-- [适用于 Node.js 的 YouTube 爬虫工具](https://github.com/brightdata/youtube-scraper-node)
-- [适用于 Node.js 的 Facebook 爬虫工具](https://github.com/brightdata/facebook-scraper-node)
+- [适用于 Node.js 的 YouTube 爬虫工具](https://github.com/bright-cn/youtube-scraper-node)
+- [适用于 Node.js 的 Facebook 爬虫工具](https://github.com/bright-cn/facebook-scraper-node)
